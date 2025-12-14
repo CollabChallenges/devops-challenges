@@ -9,6 +9,8 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
+| :us: | [Busbud](https://www.busbud.com/en) | AWS, Docker, Terraform, Ansible | [Code →](https://github.com/busbud/devops-challenge-apps)
+| :switzerland: | [Axpo Group](https://www.axpo.com/) | Python, Docker, Prometheus, Grafana, Kubernetes| [Code →](https://github.com/axpogroup/hiring-challenges/tree/main/sre-instrumentation-challenge)
 | :uk: | [Buff Up LTD](https://www.sportbuff.com/) | AWS, Golang, Terraform, MySQL, Redis, ActiveMQ| [Code →](https://github.com/buffup/DevopsTechTest)
 | :us: | [Fender Digital](http://www.fender.com) | Any Language/Framework | [Code →](https://github.com/fenderdigital/devops-challenge)
 | :us: | [Fender Digital](http://www.fender.com) | Any Language/Framework | [Code →](https://github.com/fenderdigital/platform-exercise)
