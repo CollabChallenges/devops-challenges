@@ -46,7 +46,22 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [FigureTechnologies](https://www.figure.com) | Golang, Kubernetes | [Code →](https://github.com/FigureTechnologies/devops-skills-assessment)
 | :us: | [Gr4vy](https://github.com/gr4vy) | Automation | [Code →](https://github.com/gr4vy/platform-challenge)
 | :uk: | [MoonPay](https://www.moonpay.com) | AWS, Terraform, CloudFormation | [Code →](https://github.com/moonpay/platform-challenge)
-| :us: | [Yassir](https://yassir.com) | Terraform, Typescript | [Code →](https://github.com/YAtechnologies/platform-challenge)
+| :us: | [Breeze Airways](https://flybreeze.com) | AWS, Terraform, Kubernetes | [Code →](https://github.com/Breeze-Aviation/DevOpsChallenge)   
+| :us: | [Polymarket](http://polymarket.com) | Golang, Docker, Github Actions, Kubernetes | [Code →](https://github.com/Polymarket/infra-challenge-devops) 
+| :us: | [Polymarket](http://polymarket.com) | Terraform, AWS | [Code →](https://github.com/Polymarket/infra-challenge-sre)  
+| :ger: | [Orcrist Technologies](https://orcrist.org) | Logs Analysis, Docker, Python, Ansible, Pulumi, Kubernetes | [Code →](https://github.com/orcrist-technologies/interview-homework-challenge-sre)
+| :brazil: | [Pipefy](https://www.pipefy.com) | Terraform, Docker, Kubernetes, AWS | [Code →](https://github.com/pipefy/RecruitmentExerciseSRE)   
+| :us: | [Outbrain](https://engineering.teads.com) | Any Language, Docker | [Code →](https://github.com/outbrain-inc/sre-interview-exercise)
+| :us: | [Culture Amp](https://www.cultureamp.com/) | AWS CDK, Node.js, Docker | [Code →](https://github.com/cultureamp/sre-tech-interview) 
+| :uk: | [Quipper](https://www.quipper.com/) | Any Language, Any Database, Docker, SQL, Logs Analysis | [Code →](https://github.com/quipper/devops-test)
+| :uk: | [Citizens Advice](http://www.citizensadvice.org.uk/) | Python, Kubernetes | [Code →](https://github.com/citizensadvice/ca-sre-tech-test)  
+| :us: | [Intelygenz](http://www.intelygenz.com) | Docker, CI/CD, Terraform, AWS, Kubernetes | [Code →](https://github.com/intelygenz/the-real-devops-challenge)
+| :us: | [Intelygenz](http://www.intelygenz.com) | Logs Analysis, Scripting | [Code →](https://github.com/intelygenz/the-real-sre-challenge)
+| :us: | [Nx](https://nx.dev) | Terraform, AWS, GCP | [Code →](https://github.com/nrwl/infrastructure-interview)
+| :us: | [Movable Ink](http://movableink.com) | Golang | [Code →](https://github.com/movableink/sre-assignment-golang)
+| :us: | [Movable Ink](http://movableink.com) | Python | [Code →](https://github.com/movableink/sre-assignment-python)
+| :us: | [Movable Ink](http://movableink.com) | Typescript | [Code →](https://github.com/movableink/sre-assignment-typescript)
+| :🇳🇿: | [ClearPoint](http://clearpoint.digital) | Docker, IaC, Any Cloud Platform | [Code →](https://github.com/ClearPointNZ/sre-assessment)
 ## Inspiration
 
 Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-challenges](https://github.com/CollabCodeTech/backend-challenges). Kudos!
